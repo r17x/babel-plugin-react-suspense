@@ -2150,6 +2150,11 @@ commander@^9.3.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-9.4.1.tgz#d1dd8f2ce6faf93147295c0df13c7c21141cfbdd"
   integrity sha512-5EEkTNyHNGFPD2H+c/dXXfQZYa/scCKasxWcXJaWnNJ99pnQN9Vnmqow+p+PlFPE63Q6mThaZws1T+HxfpgtPw==
 
+commitlint-config-squash-pr@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/commitlint-config-squash-pr/-/commitlint-config-squash-pr-1.1.0.tgz#ad23b25e9486fa0af147dc77723ef89131162c49"
+  integrity sha512-aEFImFSdBaMf6R0V35x319VHl05fJdwZSF45O9XPrMkauVBKCzUgi7bE2ru7r7HRE7tPY+6nwvmaoRJNnXC31Q==
+
 common-ancestor-path@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/common-ancestor-path/-/common-ancestor-path-1.0.1.tgz#4f7d2d1394d91b7abdf51871c62f71eadb0182a7"
