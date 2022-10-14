@@ -1,0 +1,8 @@
+tests/
+.husky/
+.github/
+*.config.js
+*rc.js
+.*
+**/fixtures
+**/coverage
