@@ -38,18 +38,18 @@
 
 [\[Back to the Table of Contents\] ↑](#toc)
 
-* [Installation](#installation)
-* [Configuration](#configuration)
-* [Usage](#usage)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
 
 ### Installation
 
 [\[Back to the Getting Started\] ↑](#getting-started)
 
-* yarn
-  * `yarn add babel-plugin-react-suspense`
-* npm
-  * `npm -i babel-plugin-react-suspense`
+- yarn
+  - `yarn add babel-plugin-react-suspense`
+- npm
+  - `npm -i babel-plugin-react-suspense`
 
 ### Configuration
 
@@ -68,11 +68,11 @@
 This babel plugin will enable special prop name (attributes jsx) called `suspense` every `JSXElement` declaration. (seem like `css` prop, if you familiar with `styled-component` or `emotion`).
 
 ```javascript
-const App = () => ( 
+const App = () => (
   <>
     <User suspense={<Fallback />} />
   </>
-)
+);
 ```
 
 # Contributors
@@ -85,5 +85,5 @@ const App = () => (
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
+<!-- ALL-CONTRIBUTORS-LIST:END -->
