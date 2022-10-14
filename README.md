@@ -11,6 +11,7 @@
 `<React.Suspense fallback={<Fallback />}><Component /></React.Suspense`
 
 <p align="center">
+  <a href="#features">Features</a>  • 
   <a href="#getting-started">Getting Started</a>  • 
   <a href="#contributors">Contributors</a> 
 </p>
@@ -33,6 +34,11 @@
 <!-- prettier-ignore-end -->
 
 </div>
+
+## Features
+
+- 🤖 Smart enough to import and use `Suspense` based on _user_ source.
+- 🌟 Simply to adopt (just add new attributes or props in your element with `suspense` as key and value as `fallback`.
 
 ## Getting Started
 
