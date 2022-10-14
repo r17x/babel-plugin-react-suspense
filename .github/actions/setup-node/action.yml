@@ -18,7 +18,7 @@ runs:
 
     - name: Setup git user to "anakmagang"
       shell: bash
-      run: git config user.email "anakmagang@evilfactorylabs.org" && git config user.name "anakmagang"
+      run: git config user.email "contact@evilfactorylabs.org" && git config user.name "anakmagang"
 
     - name: Use Node.js
       uses: actions/setup-node@v2
