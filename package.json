@@ -57,14 +57,14 @@
   },
   "devDependencies": {
     "@babel/core": "^7",
-    "@commitlint/cli": "16.2.1",
-    "@commitlint/config-conventional": "16.2.1",
-    "@commitlint/prompt": "16.2.1",
+    "@commitlint/cli": "^16",
+    "@commitlint/config-conventional": "^16",
+    "@commitlint/prompt": "^16",
     "@semantic-release/changelog": "semantic-release/changelog",
-    "@semantic-release/git": "10.0.1",
-    "@semrel-extra/npm": "1.2.0",
+    "@semantic-release/git": "^10",
+    "@semrel-extra/npm": "^1",
     "babel-plugin-tester": "^10",
-    "commitlint-config-squash-pr": "1.1.0",
+    "commitlint-config-squash-pr": "^1",
     "cross-env": "^7",
     "eslint": "^8",
     "eslint-config-kdnj": "^2",
@@ -72,6 +72,6 @@
     "jest": "^29",
     "lint-staged": "^13",
     "prettier": "^2",
-    "semantic-release": "19.0.2"
+    "semantic-release": "^19"
   }
 }
