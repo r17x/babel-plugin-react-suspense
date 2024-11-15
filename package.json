@@ -4,7 +4,7 @@
   "author": "r17x <hi@rin.rocks>",
   "homepage": "https://github.com/r17x/babel-plugin-react-suspense",
   "repository": "https://github.com/r17x/babel-plugin-react-suspense",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "keywords": [
     "react",
     "react-suspense",

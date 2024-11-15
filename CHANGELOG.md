@@ -1,3 +1,5 @@
+## [1.0.9](https://github.com/r17x/babel-plugin-react-suspense/compare/v1.0.8...v1.0.9) (2024-11-15)
+
 ## [1.0.8](https://github.com/r17x/babel-plugin-react-suspense/compare/v1.0.7...v1.0.8) (2024-06-11)
 
 ## [1.0.7](https://github.com/r17x/babel-plugin-react-suspense/compare/v1.0.6...v1.0.7) (2024-04-13)
